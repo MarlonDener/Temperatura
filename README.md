@@ -1,25 +1,7 @@
-# temperatura
+Clima / Climate
 
-## Project setup
-```
-npm install
-```
+Um projeto consultando uma api que desponibiliza dados sobre o clima ao redor do mundo.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+![image](https://user-images.githubusercontent.com/70349830/114286504-ac530c00-9a35-11eb-942d-05501687895a.png)
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-# Temperatura
+Muito obrigado !
