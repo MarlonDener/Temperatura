@@ -1,4 +1,4 @@
-<h1Climate / Clima</h1>
+<h1>Climate / Clima</h1>
 
                                    A project consulting an api that makes climate data available around the world.
 
